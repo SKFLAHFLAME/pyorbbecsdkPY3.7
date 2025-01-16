@@ -1,0 +1,11 @@
+README.md
+setup.py
+pyorbbecsdk.egg-info/PKG-INFO
+pyorbbecsdk.egg-info/SOURCES.txt
+pyorbbecsdk.egg-info/dependency_links.txt
+pyorbbecsdk.egg-info/not-zip-safe
+pyorbbecsdk.egg-info/top_level.txt
+test/test_context.py
+test/test_device.py
+test/test_pipeline.py
+test/test_sensor_control.py

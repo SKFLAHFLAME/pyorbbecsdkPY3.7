@@ -1,0 +1,6 @@
+/home/pi/pyorbbecsdk/install/lib/pyorbbecsdk.cpython-37m-arm-linux-gnueabihf.so
+/home/pi/pyorbbecsdk/install/lib/libOrbbecSDK.so.1.10.12
+/home/pi/pyorbbecsdk/install/lib/libOrbbecSDK.so
+/home/pi/pyorbbecsdk/install/lib/libob_usb.so
+/home/pi/pyorbbecsdk/install/lib/liblive555.so
+/home/pi/pyorbbecsdk/install/lib/libOrbbecSDK.so.1.10
